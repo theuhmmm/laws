@@ -99,57 +99,90 @@ Ms. Automationeer (for herself, Ms. ConfussIed, Mr. TheGreenLego_Brick, Mr. dovn
 
 
 "(a) The following departments shall be recognized as primary departments—
+  
   (i)The Firestone Bureau of Investigation;
+  
   (ii) Firestone State Patrol;
+  
   (iii) Firestone Park Service;
+  
   (iv) Stapleton County Sheriff’s Office;
+  
   (v) Redwood Police Department;
+  
   (vi) Arborfield Police Department;
+  
   (vii) the Prominence District Police; and
+  
   (viii) Firestone Department of Homeland Security"
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii) Section 9(a) of the Employment Act of 2023 shall be amended to state: 
 
 "(a) The following departments shall be recognized as primary departments—
+  
   (i)The Firestone Bureau of Investigation;
+  
   (ii) Firestone State Patrol;
+  
   ~~(iii) Firestone Park Service;~~
+  
   (**iii**) Stapleton County Sheriff’s Office;
+  
   (**iv**) Redwood Police Department;
+  
   (**v**) Arborfield Police Department;
+  
   (**vi**) the Prominence District Police; and
+  
   (**vii**) Firestone Department of Homeland Security"
 
 
-&nbsp;&nbsp;&nbsp; (a) Section 9(a) of the Employment Act of 2023 shall be amended.
+&nbsp;&nbsp;&nbsp; (b) Section 9(a) of the Employment Act of 2023 shall be amended.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Section 11(a) of the Employment Act of 2023 currently states: 
 
 
 "(a) The following departments shall be recognized as secondary departments—
+  
   (i) The Firestone Department of Corrections;
+  
   (ii) Firestone Department of Public Safety;
+  
   (iii) Firestone Department of Transportation;
+  
   (iv) Firestone Department of Public Works;
+  
   (v) Firestone Department of Health;
+  
   (vi) Firestone Aviation Administration or Firestone Department of Aviation; and
+  
   (vii) Stapleton County Port Authority; and
+  
   (viii) the Stapleton County Fire Department;"
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii) Section 11(a) of the Employment Act of 2023 shall be amended to state: 
 
 "(a) The following departments shall be recognized as secondary departments—
+  
   (i) The Firestone Department of Corrections;
+  
   (ii) Firestone Department of Public Safety;
+  
   (iii) Firestone Department of Transportation;
+  
   (iv) Firestone Department of Public Works;
+  
   (v) Firestone Department of Health;
+  
   (vi) Firestone Aviation Administration or Firestone Department of Aviation; ~~and~~
+  
   (vii) Stapleton County Port Authority; ~~and~~
+  
   (viii) the Stapleton County Fire Department; **and**
+  
   **(ix) the Firestone Park Service;**"
 
 <br/>
