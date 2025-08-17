@@ -35,7 +35,7 @@ Ms. Automationeer (for herself, Ms. ConfussIed, Mr. TheGreenLego_Brick, Mr. dovn
 **SECTION 1. SHORT TITLE**
 
 
-&nbsp;&nbsp;&nbsp; This Act may be cited as "An Act to Defeat the Onceler".
+This Act may be cited as "An Act to Defeat the Onceler".
 
 
 <br/>
@@ -44,10 +44,10 @@ Ms. Automationeer (for herself, Ms. ConfussIed, Mr. TheGreenLego_Brick, Mr. dovn
 **SEC 2. ENACTMENT**
 
 
-&nbsp;&nbsp;&nbsp; This Bill shall go into effect as an Act of Congress upon the completion of the constitutionally required processes.
+This Bill shall go into effect as an Act of Congress upon the completion of the constitutionally required processes.
 
 
-&nbsp;&nbsp;&nbsp; This Act shall go into effect upon the completion of the constitutionally required processes.
+This Act shall go into effect upon the completion of the constitutionally required processes.
 
 
 <br/>
@@ -56,7 +56,7 @@ Ms. Automationeer (for herself, Ms. ConfussIed, Mr. TheGreenLego_Brick, Mr. dovn
 **SEC 3. SEVERABILITY**
 
 
-&nbsp;&nbsp;&nbsp; Should any part of this Act be struck down and/or declared unenforceable, then that part shall be severed with the rest remaining in full force and effect unless all is struck down and/or declared unenforceable.
+Should any part of this Act be struck down and/or declared unenforceable, then that part shall be severed with the rest remaining in full force and effect unless all is struck down and/or declared unenforceable.
 
 
 <br/>
@@ -65,7 +65,7 @@ Ms. Automationeer (for herself, Ms. ConfussIed, Mr. TheGreenLego_Brick, Mr. dovn
 **SEC 4. ENFORCEMENT**
 
 
-&nbsp;&nbsp;&nbsp; This Act shall be enforced by all Courts and other Judicial Bodies of the State of Firestone.
+This Act shall be enforced by all Courts and other Judicial Bodies of the State of Firestone.
 
 
 <br/>
@@ -74,7 +74,7 @@ Ms. Automationeer (for herself, Ms. ConfussIed, Mr. TheGreenLego_Brick, Mr. dovn
 **SEC 5. DEFINITIONS**
 
 
-&nbsp;&nbsp;&nbsp; (a) For the purposes of this Act, 'Employment Act of 2023' shall be defined as: https://forums.stateoffirestone.com/t/employment-act-of-2023/24418, or in leiu of the Firestone Forums, https://drive.google.com/file/d/1mXf6jRlQqsm87VMNXJiZudBnipz_lb7t/view?usp=drive_link
+(a) For the purposes of this Act, 'Employment Act of 2023' shall be defined as: https://forums.stateoffirestone.com/t/employment-act-of-2023/24418, or in leiu of the Firestone Forums, https://drive.google.com/file/d/1mXf6jRlQqsm87VMNXJiZudBnipz_lb7t/view?usp=drive_link
 
 
 <br/>
@@ -83,7 +83,7 @@ Ms. Automationeer (for herself, Ms. ConfussIed, Mr. TheGreenLego_Brick, Mr. dovn
 **SEC 6. REPEALMENTS**
 
 
-&nbsp;&nbsp;&nbsp; This Act makes no repealments.
+This Act makes no repealments.
 
 
 <br/>
@@ -92,10 +92,10 @@ Ms. Automationeer (for herself, Ms. ConfussIed, Mr. TheGreenLego_Brick, Mr. dovn
 **SEC 7. AMENDMENTS**
 
 
-&nbsp;&nbsp;&nbsp; (a) Section 9(a) of the Employment Act of 2023 shall be amended.
+(a) Section 9(a) of the Employment Act of 2023 shall be amended.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Section 9(a) of the Employment Act of 2023 currently states: 
+(i) Section 9(a) of the Employment Act of 2023 currently states: 
 
 
 "(a) The following departments shall be recognized as primary departments—
@@ -117,7 +117,7 @@ Ms. Automationeer (for herself, Ms. ConfussIed, Mr. TheGreenLego_Brick, Mr. dovn
   (viii) Firestone Department of Homeland Security"
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii) Section 9(a) of the Employment Act of 2023 shall be amended to state: 
+(ii) Section 9(a) of the Employment Act of 2023 shall be amended to state: 
 
 "(a) The following departments shall be recognized as primary departments—
   
@@ -138,13 +138,13 @@ Ms. Automationeer (for herself, Ms. ConfussIed, Mr. TheGreenLego_Brick, Mr. dovn
   (**vii**) Firestone Department of Homeland Security"
 
 
-&nbsp;&nbsp;&nbsp; (b) Section 9(a) of the Employment Act of 2023 shall be amended.
+(b) Section 9(a) of the Employment Act of 2023 shall be amended.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Section 11(a) of the Employment Act of 2023 currently states: 
+(i) Section 11(a) of the Employment Act of 2023 currently states: 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(a) The following departments shall be recognized as secondary departments—
+"(a) The following departments shall be recognized as secondary departments—
   
   (i) The Firestone Department of Corrections;
   
@@ -163,9 +163,9 @@ Ms. Automationeer (for herself, Ms. ConfussIed, Mr. TheGreenLego_Brick, Mr. dovn
   (viii) the Stapleton County Fire Department;"
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii) Section 11(a) of the Employment Act of 2023 shall be amended to state: 
+(ii) Section 11(a) of the Employment Act of 2023 shall be amended to state: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(a) The following departments shall be recognized as secondary departments—
+"(a) The following departments shall be recognized as secondary departments—
   
   (i) The Firestone Department of Corrections;
   
