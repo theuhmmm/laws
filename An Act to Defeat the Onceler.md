@@ -117,7 +117,9 @@ This Act makes no repealments.
   (viii) Firestone Department of Homeland Security"
 
 
+
 (ii) Section 9(a) of the Employment Act of 2023 shall be amended to state: 
+
 
 "(a) The following departments shall be recognized as primary departments—
   
