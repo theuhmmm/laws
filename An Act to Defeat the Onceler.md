@@ -74,7 +74,7 @@ This Act shall be enforced by all Courts and other Judicial Bodies of the State 
 **SEC 5. DEFINITIONS**
 
 
-(a) For the purposes of this Act, 'Employment Act of 2023' shall be defined as: https://forums.stateoffirestone.com/t/employment-act-of-2023/24418, or in leiu of the Firestone Forums, https://drive.google.com/file/d/1mXf6jRlQqsm87VMNXJiZudBnipz_lb7t/view?usp=drive_link
+&nbsp;&nbsp;&nbsp;(a) For the purposes of this Act, 'Employment Act of 2023' shall be defined as: https://forums.stateoffirestone.com/t/employment-act-of-2023/24418, or in leiu of the Firestone Forums, https://drive.google.com/file/d/1mXf6jRlQqsm87VMNXJiZudBnipz_lb7t/view?usp=drive_link
 
 
 <br/>
@@ -92,100 +92,100 @@ This Act makes no repealments.
 **SEC 7. AMENDMENTS**
 
 
-(a) Section 9(a) of the Employment Act of 2023 shall be amended.
+&nbsp;&nbsp;&nbsp;(a) Section 9(a) of the Employment Act of 2023 shall be amended.
 
 
-(i) Section 9(a) of the Employment Act of 2023 currently states: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Section 9(a) of the Employment Act of 2023 currently states: 
 
 
-"(a) The following departments shall be recognized as primary departments—
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(a) The following departments shall be recognized as primary departments—
   
-  (i)The Firestone Bureau of Investigation;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i)The Firestone Bureau of Investigation;
   
-  (ii) Firestone State Patrol;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Firestone State Patrol;
   
-  (iii) Firestone Park Service;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) Firestone Park Service;
   
-  (iv) Stapleton County Sheriff’s Office;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) Stapleton County Sheriff’s Office;
   
-  (v) Redwood Police Department;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(v) Redwood Police Department;
   
-  (vi) Arborfield Police Department;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(vi) Arborfield Police Department;
   
-  (vii) the Prominence District Police; and
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(vii) the Prominence District Police; and
   
-  (viii) Firestone Department of Homeland Security"
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(viii) Firestone Department of Homeland Security"
 
 
 
-(ii) Section 9(a) of the Employment Act of 2023 shall be amended to state: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Section 9(a) of the Employment Act of 2023 shall be amended to state: 
 
 
-"(a) The following departments shall be recognized as primary departments—
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(a) The following departments shall be recognized as primary departments—
   
-  (i)The Firestone Bureau of Investigation;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i)The Firestone Bureau of Investigation;
   
-  (ii) Firestone State Patrol;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Firestone State Patrol;
   
-  ~~(iii) Firestone Park Service;~~
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~(iii) Firestone Park Service;~~
   
-  (**iii**) Stapleton County Sheriff’s Office;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(**iii**) Stapleton County Sheriff’s Office;
   
-  (**iv**) Redwood Police Department;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(**iv**) Redwood Police Department;
   
-  (**v**) Arborfield Police Department;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(**v**) Arborfield Police Department;
   
-  (**vi**) the Prominence District Police; and
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(**vi**) the Prominence District Police; and
   
-  (**vii**) Firestone Department of Homeland Security"
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(**vii**) Firestone Department of Homeland Security"
 
 
-(b) Section 9(a) of the Employment Act of 2023 shall be amended.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) Section 9(a) of the Employment Act of 2023 shall be amended.
 
 
-(i) Section 11(a) of the Employment Act of 2023 currently states: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Section 11(a) of the Employment Act of 2023 currently states: 
 
 
-"(a) The following departments shall be recognized as secondary departments—
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(a) The following departments shall be recognized as secondary departments—
   
-  (i) The Firestone Department of Corrections;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The Firestone Department of Corrections;
   
-  (ii) Firestone Department of Public Safety;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Firestone Department of Public Safety;
   
-  (iii) Firestone Department of Transportation;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) Firestone Department of Transportation;
   
-  (iv) Firestone Department of Public Works;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) Firestone Department of Public Works;
   
-  (v) Firestone Department of Health;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(v) Firestone Department of Health;
   
-  (vi) Firestone Aviation Administration or Firestone Department of Aviation; and
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(vi) Firestone Aviation Administration or Firestone Department of Aviation; and
   
-  (vii) Stapleton County Port Authority; and
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(vii) Stapleton County Port Authority; and
   
-  (viii) the Stapleton County Fire Department;"
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(viii) the Stapleton County Fire Department;"
 
 
-(ii) Section 11(a) of the Employment Act of 2023 shall be amended to state: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Section 11(a) of the Employment Act of 2023 shall be amended to state: 
 
-"(a) The following departments shall be recognized as secondary departments—
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(a) The following departments shall be recognized as secondary departments—
   
-  (i) The Firestone Department of Corrections;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The Firestone Department of Corrections;
   
-  (ii) Firestone Department of Public Safety;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Firestone Department of Public Safety;
   
-  (iii) Firestone Department of Transportation;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) Firestone Department of Transportation;
   
-  (iv) Firestone Department of Public Works;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) Firestone Department of Public Works;
   
-  (v) Firestone Department of Health;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(v) Firestone Department of Health;
   
-  (vi) Firestone Aviation Administration or Firestone Department of Aviation; ~~and~~
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(vi) Firestone Aviation Administration or Firestone Department of Aviation; ~~and~~
   
-  (vii) Stapleton County Port Authority; ~~and~~
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(vii) Stapleton County Port Authority; ~~and~~
   
-  (viii) the Stapleton County Fire Department; **and**
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(viii) the Stapleton County Fire Department; **and**
   
-  **(ix) the Firestone Park Service;**"
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(ix) the Firestone Park Service;**"
 
 <br/>
 
