@@ -10,8 +10,8 @@
 <p>A<small>ugust</small> 16, 2025</p>
 
 
-Ms. Automationeer (for herself, Ms. ConfussIed, Mr. TheGreenLego_Brick, Mr. dovntime, Mr. nrMiner, Mr. Ferro3003, Ms. catgirlairsupport, Mr. AlexOtkerson777, Mr. AegaeusMengsk, Ms. SydneyAirbus, Ms. s_ixela, Mr. spidermanIunchbox, Mr. Fastbird4, Mr. sincere_aedn
-, Mr. Bobgoblinbobgoblin, Mr. z9008u1der_neue, Mr. ManifestLaw and Mx. Sponsor) introduced the following bill:
+Ms. Automationeer (for herself, Ms. ConfussIed, Mr. TheGreenLego_Brick, Mr. dovntime, Mr. ADMIRAL_RICKY, Mr. MarbleYarment, Mr. nrMiner, Mr. Ferro3003, Mr. Vegettacanis_12, Ms. catgirlairsupport, Mr. SyrianTaxiDriver, Mr. AlexOtkerson777, Mr. AegaeusMengsk, Ms. SydneyAirbus, Ms. s_ixela, Mr. spidermanIunchbox, Mr. Fastbird4, Mr. sincere_aedn
+, Mr. Bobgoblinbobgoblin, Mr. z9008u1der_neue, Mr. ManifestLaw, Mr. airbornefeelings, Mr. zxnzilla, Mr. WaterEnforcing, Mr. doctorfielder, Ms. felicityfables, Mr. ma_iingan, Mr. dylansapphire, Mr. isiahwarfare, Mr. b_aconxv, Mr. Pigeon_n, Mr. YouFoundArchie  and Mr. AviationSworn) introduced the following bill:
 
 
 ---
