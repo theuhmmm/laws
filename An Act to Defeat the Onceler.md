@@ -95,7 +95,7 @@ This Act makes no repealments.
 &nbsp;&nbsp;&nbsp;(a) Section 9(a) of the Employment Act of 2023 shall be amended.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Section 9(a) of the Employment Act of 2023 currently states: 
+&nbsp;&nbsp;&nbsp;(i) Section 9(a) of the Employment Act of 2023 currently states: 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(a) The following departments shall be recognized as primary departments—
@@ -118,7 +118,7 @@ This Act makes no repealments.
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Section 9(a) of the Employment Act of 2023 shall be amended to state: 
+&nbsp;&nbsp;&nbsp;(ii) Section 9(a) of the Employment Act of 2023 shall be amended to state: 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(a) The following departments shall be recognized as primary departments—
@@ -140,10 +140,10 @@ This Act makes no repealments.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(**vii**) Firestone Department of Homeland Security"
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) Section 9(a) of the Employment Act of 2023 shall be amended.
+&nbsp;&nbsp;&nbsp;(b) Section 9(a) of the Employment Act of 2023 shall be amended.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Section 11(a) of the Employment Act of 2023 currently states: 
+&nbsp;&nbsp;&nbsp;(i) Section 11(a) of the Employment Act of 2023 currently states: 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(a) The following departments shall be recognized as secondary departments—
@@ -165,7 +165,7 @@ This Act makes no repealments.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(viii) the Stapleton County Fire Department;"
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Section 11(a) of the Employment Act of 2023 shall be amended to state: 
+&nbsp;&nbsp;&nbsp;(ii) Section 11(a) of the Employment Act of 2023 shall be amended to state: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(a) The following departments shall be recognized as secondary departments—
   
